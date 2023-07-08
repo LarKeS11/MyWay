@@ -7,6 +7,7 @@ Steps:
 - Enjoy the app
 
 Technologies: Kotlin, Jetpack Compose, Firebase, Room db, Dagger Hilt, MVVM
+
 Common features: Google Sign in/up, online-sync/caching, Light/Dark theme, Swipable views, calendar, color picker, view pager, graphs
 
 
