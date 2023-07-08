@@ -6,6 +6,8 @@ Steps:
 - Sign in with google account
 - Enjoy the app
 
-![image](https://github.com/LarKeS11/MyWay/assets/79082708/74b59025-5023-47cf-b9ff-e49636eccc8d) ![image](https://github.com/LarKeS11/MyWay/assets/79082708/529c435c-736f-4e7c-931e-5513ab51465d)
+![image](https://github.com/LarKeS11/MyWay/assets/79082708/f54b0df9-cb8b-4c37-a2a1-0174efe31431) ![image](https://github.com/LarKeS11/MyWay/assets/79082708/64478649-3608-4889-9d9d-73395aadbcd9)
+
+
 
 ![image](https://github.com/LarKeS11/MyWay/assets/79082708/ce94a51b-389d-4778-b2cc-a0683e518176)
