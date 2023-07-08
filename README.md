@@ -7,4 +7,5 @@ Steps:
 - Enjoy the app
 
 ![image](https://github.com/LarKeS11/MyWay/assets/79082708/43c873cd-d7ef-4d72-956f-5540bff3f2ee) ![image](https://github.com/LarKeS11/MyWay/assets/79082708/64478649-3608-4889-9d9d-73395aadbcd9)
-![image](https://github.com/LarKeS11/MyWay/assets/84245621/c16feac3-d3a8-46f1-a593-a87d389c2931)
+![image](https://github.com/LarKeS11/MyWay/assets/84245621/46d4abfd-9650-4938-9a30-e8f0251084b7)
+
